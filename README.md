@@ -13,4 +13,5 @@ A passionate Electronics and Communication Engineering student, exploring projec
 
 
 ---
-[](https://visitcount.itsvg.in/api?id=Shreyas-one&icon=1&color=6)]
+[![](https://visitcount.itsvg.in/api?id=Shreyas-one&icon=1&color=6)](https://visitcount.itsvg.in)
+
