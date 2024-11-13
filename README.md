@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 A passionate Electronics and Communication Engineering student, exploring projects in machine learning, VLSI, antennas, digital signal processing, and embedded systems. Eager to connect with experts and deepen my understanding of cloud computing technologies like AWS and Databricks.
 
 
